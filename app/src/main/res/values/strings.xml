@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PWA Maker</string>
+
+    <string name="generator_title">PWA Generator</string>
+    <string name="generator_subtitle">Create borderless fullscreen web applications</string>
+
+    <string name="saved_list_title">Saved PWAs (%1$d)</string>
+    <string name="saved_list_empty">No saved PWA configurations yet</string>
+
+    <string name="field_name_title">1. App Name (Name)</string>
+    <string name="field_name_label">App Name</string>
+    <string name="field_name_placeholder">e.g. YouTube, Twitter, Notion</string>
+
+    <string name="field_url_title">2. Target URL (URL)</string>
+    <string name="field_url_label">Web URL</string>
+
+    <string name="field_icon_title">3. Icon Selection (Icon)</string>
+    <string name="btn_choose_image">Choose Local Image</string>
+    <string name="btn_reset_icon">Reset to Default Icon</string>
+
+    <string name="field_ua_title">4. User-Agent (UA) Settings</string>
+    <string name="ua_mode_basic">Basic Mode</string>
+    <string name="ua_mode_advanced">Advanced Mode</string>
+    <string name="ua_mobile_option">Mobile UA</string>
+    <string name="ua_desktop_option">Desktop UA</string>
+    <string name="ua_custom_label">Custom User-Agent String</string>
+    <string name="btn_fill_mobile_ua">Fill Mobile Default</string>
+    <string name="btn_fill_desktop_ua">Fill Desktop Default</string>
+
+    <string name="btn_add_to_home_screen">Add to Home Screen</string>
+
+    <string name="toast_enter_valid_url">Please enter a valid URL</string>
+    <string name="toast_loaded_pwa">Loaded %1$s</string>
+    <string name="toast_deleted">Deleted</string>
+    <string name="toast_shortcut_requested">Shortcut creation requested: %1$s</string>
+    <string name="toast_shortcut_not_supported">Pinning shortcuts is not supported on your device/launcher</string>
+    <string name="toast_web_error">Error loading page: %1$s</string>
+    <string name="toast_cannot_open_external">Unable to open external link</string>
+    <string name="toast_cannot_open_file_picker">Unable to open file picker</string>
+
+    <string name="untitled_pwa">Untitled PWA</string>
+
+    <string name="cd_clear">Clear</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_load">Load</string>
+    <string name="cd_open">Open</string>
+    <string name="cd_delete">Delete</string>
+    <string name="cd_saved_list">Saved List</string>
+</resources>

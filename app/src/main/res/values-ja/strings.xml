@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PWAショートカット作成</string>
+
+    <string name="generator_title">PWAショートカット作成</string>
+    <string name="generator_subtitle">ボーダレスな全画面ウェブアプリを作成</string>
+
+    <string name="saved_list_title">保存されたPWA (%1$d)</string>
+    <string name="saved_list_empty">保存されたPWA設定はありません</string>
+
+    <string name="field_name_title">1. アプリ名 (Name)</string>
+    <string name="field_name_label">アプリ名</string>
+    <string name="field_name_placeholder">例：YouTube, Twitter, Notion</string>
+
+    <string name="field_url_title">2. ターゲットURL (URL)</string>
+    <string name="field_url_label">ウェブアドレス</string>
+
+    <string name="field_icon_title">3. アイコン選択 (Icon)</string>
+    <string name="btn_choose_image">ローカル画像を選択</string>
+    <string name="btn_reset_icon">デフォルトアイコンにリセット</string>
+
+    <string name="field_ua_title">4. User-Agent (UA) 設定</string>
+    <string name="ua_mode_basic">基本モード (Basic)</string>
+    <string name="ua_mode_advanced">詳細モード (Advanced)</string>
+    <string name="ua_mobile_option">モバイル版 (Mobile) UA</string>
+    <string name="ua_desktop_option">デスクトップ版 (Desktop) UA</string>
+    <string name="ua_custom_label">カスタムUser-Agent文字列</string>
+    <string name="btn_fill_mobile_ua">モバイルデフォルトを入力</string>
+    <string name="btn_fill_desktop_ua">デスクトップデフォルトを入力</string>
+
+    <string name="btn_add_to_home_screen">ホーム画面に追加</string>
+
+    <string name="toast_enter_valid_url">有効なURLを入力してください</string>
+    <string name="toast_loaded_pwa">%1$s を読み込みました</string>
+    <string name="toast_deleted">削除しました</string>
+    <string name="toast_shortcut_requested">ショートカット作成をリクエストしました：%1$s</string>
+    <string name="toast_shortcut_not_supported">お使いの端末/ランチャーはショートカット作成に対応していません</string>
+    <string name="toast_web_error">ページの読み込み中にエラーが発生しました: %1$s</string>
+    <string name="toast_cannot_open_external">外部リンクを開けません</string>
+    <string name="toast_cannot_open_file_picker">ファイルピッカーを開けません</string>
+
+    <string name="untitled_pwa">無題のPWA</string>
+
+    <string name="cd_clear">消去</string>
+    <string name="cd_close">閉じる</string>
+    <string name="cd_load">読み込む</string>
+    <string name="cd_open">開く</string>
+    <string name="cd_delete">削除</string>
+    <string name="cd_saved_list">保存済みリスト</string>
+</resources>

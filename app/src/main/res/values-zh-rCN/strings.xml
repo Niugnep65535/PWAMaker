@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PWA 快捷方式生成器</string>
+
+    <string name="generator_title">PWA 快捷方式生成器</string>
+    <string name="generator_subtitle">创建无边框全屏网页应用</string>
+
+    <string name="saved_list_title">已保存的 PWA 列表 (%1$d)</string>
+    <string name="saved_list_empty">暂无已保存的 PWA 配置</string>
+
+    <string name="field_name_title">1. 应用名称 (Name)</string>
+    <string name="field_name_label">应用名称</string>
+    <string name="field_name_placeholder">例如：YouTube, Twitter, Notion</string>
+
+    <string name="field_url_title">2. 目标网址 (URL)</string>
+    <string name="field_url_label">Web 地址</string>
+
+    <string name="field_icon_title">3. 图标选择 (Icon)</string>
+    <string name="btn_choose_image">选择本地图片</string>
+    <string name="btn_reset_icon">重置为默认图标</string>
+
+    <string name="field_ua_title">4. User-Agent (UA) 设置</string>
+    <string name="ua_mode_basic">基础模式 (Basic)</string>
+    <string name="ua_mode_advanced">高级模式 (Advanced)</string>
+    <string name="ua_mobile_option">手机版 (Mobile) UA</string>
+    <string name="ua_desktop_option">桌面版 (Desktop) UA</string>
+    <string name="ua_custom_label">自定义完整 User-Agent 字符串</string>
+    <string name="btn_fill_mobile_ua">填入手机版默认</string>
+    <string name="btn_fill_desktop_ua">填入桌面版默认</string>
+
+    <string name="btn_add_to_home_screen">添加到主屏幕</string>
+
+    <string name="toast_enter_valid_url">请输入有效的目标网址</string>
+    <string name="toast_loaded_pwa">已加载 %1$s</string>
+    <string name="toast_deleted">已删除</string>
+    <string name="toast_shortcut_requested">已发送新增快捷方式请求：%1$s</string>
+    <string name="toast_shortcut_not_supported">您的设备/桌面不支持创建快捷方式</string>
+    <string name="toast_web_error">加载页面发生错误: %1$s</string>
+    <string name="toast_cannot_open_external">无法打开外部链接</string>
+    <string name="toast_cannot_open_file_picker">无法打开文件选择器</string>
+
+    <string name="untitled_pwa">无标题 PWA</string>
+
+    <string name="cd_clear">清除</string>
+    <string name="cd_close">关闭</string>
+    <string name="cd_load">加载</string>
+    <string name="cd_open">打开</string>
+    <string name="cd_delete">删除</string>
+    <string name="cd_saved_list">已保存列表</string>
+</resources>

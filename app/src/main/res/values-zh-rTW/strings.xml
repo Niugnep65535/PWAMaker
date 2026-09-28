@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PWA 捷徑生成器</string>
+
+    <string name="generator_title">PWA 捷徑生成器</string>
+    <string name="generator_subtitle">建立無邊框全螢幕網頁應用程式</string>
+
+    <string name="saved_list_title">已儲存的 PWA 清單 (%1$d)</string>
+    <string name="saved_list_empty">尚無已儲存的 PWA 設定</string>
+
+    <string name="field_name_title">1. 應用程式名稱 (Name)</string>
+    <string name="field_name_label">應用程式名稱</string>
+    <string name="field_name_placeholder">例如：YouTube, Twitter, Notion</string>
+
+    <string name="field_url_title">2. 目標網址 (URL)</string>
+    <string name="field_url_label">Web 位址</string>
+
+    <string name="field_icon_title">3. 圖示選擇 (Icon)</string>
+    <string name="btn_choose_image">選擇本機圖片</string>
+    <string name="btn_reset_icon">重置為預設圖示</string>
+
+    <string name="field_ua_title">4. User-Agent (UA) 設定</string>
+    <string name="ua_mode_basic">基礎模式 (Basic)</string>
+    <string name="ua_mode_advanced">進階模式 (Advanced)</string>
+    <string name="ua_mobile_option">手機版 (Mobile) UA</string>
+    <string name="ua_desktop_option">電腦版 (Desktop) UA</string>
+    <string name="ua_custom_label">自定義完整 User-Agent 字串</string>
+    <string name="btn_fill_mobile_ua">填入手機版預設</string>
+    <string name="btn_fill_desktop_ua">填入電腦版預設</string>
+
+    <string name="btn_add_to_home_screen">新增至主畫面</string>
+
+    <string name="toast_enter_valid_url">請輸入有效的目標網址</string>
+    <string name="toast_loaded_pwa">已載入 %1$s</string>
+    <string name="toast_deleted">已刪除</string>
+    <string name="toast_shortcut_requested">已發送新增捷徑請求：%1$s</string>
+    <string name="toast_shortcut_not_supported">您的裝置/桌面不支援建立捷徑</string>
+    <string name="toast_web_error">載入頁面發生錯誤: %1$s</string>
+    <string name="toast_cannot_open_external">無法開啟外部連結</string>
+    <string name="toast_cannot_open_file_picker">無法開啟檔案選擇器</string>
+
+    <string name="untitled_pwa">無標題 PWA</string>
+
+    <string name="cd_clear">清除</string>
+    <string name="cd_close">關閉</string>
+    <string name="cd_load">載入</string>
+    <string name="cd_open">開啟</string>
+    <string name="cd_delete">刪除</string>
+    <string name="cd_saved_list">已儲存清單</string>
+</resources>
